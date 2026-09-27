@@ -105,8 +105,8 @@ set_intersection = set1.intersection(set2)
 # possible ways to create a set with single element like 9 and 9.0 same value but different data types
 marks = {(int(9) , float(9.0)),}
 marks2 = {(9, 9.0),}
-print(marks)
-print(marks2)
+# print(marks)
+# print(marks2)
 
 
 

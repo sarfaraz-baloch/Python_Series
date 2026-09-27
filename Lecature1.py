@@ -143,19 +143,19 @@
 # print(x)  # Output: 10
 
 # 8
-y = 20
-y //= 3
+# y = 20
+# y //= 3
 # print(y)  # Output: 4
 
 # 9
-num = 4
-num **= num
+# num = 4
+# num **= num
 # print(num)  # Output: 256
 
 # 10
 # print(not (10 > 5))
-c = 10
-d = 20
+# c = 10
+# d = 20
 # print((c > d) and (c == d)) # Output: False
 # print((c < d) or (c == d))  # Output: True
 
@@ -181,6 +181,7 @@ d = 20
 
 # 14
 
-user_num1 = int(input("Enter the first number: "))
-user_num2 = int(input("Enter the second number: "))
-print((user_num1 > user_num2 , user_num1 ) and (user_num2 < user_num1 , user_num2))
+# user_num1 = int(input("Enter the first number: "))
+# user_num2 = int(input("Enter the second number: "))
+# print((user_num1 > user_num2 , user_num1 ) and (user_num2 < user_num1 , user_num2))
+
